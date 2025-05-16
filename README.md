@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I’m a recent postgraduate with a strong foundati
 
 ## 📌 About Me
 
-- 🎓 Recently completed my B.Tech in Computer Science Engineering from **RGUKT - IIIt**
-- 🚀 Actively seeking opportunities where I can apply my skills in **data visualization**, **machine learning**, and **data exploration** to solve real-world problems.
+- 🎓 Recently completed my B.Tech in Computer Science Engineering from **RGUKT - IIIT**
+- 🚀 Actively seeking opportunities where I can apply my skills in **Data Visualization**, **Machine Learning**, and **Data Exploration** to solve real-world problems.
 - 💡 Passionate about continuous learning, especially in the evolving field of **Data Science and Machine Learning**.
 - 🌱 As a fresher, I bring enthusiasm, adaptability, and a strong desire to learn and grow in a dynamic work environment.
 
