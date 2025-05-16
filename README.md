@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m a recent postgraduate with a strong foundati
 `Python` `SQL` `Excel` `Power BI`
 
 ### Data Manipulation & EDA  
-`Pandas` `NumPy` `Polars` `EDA` `Exploratory Analysis`
+`Pandas` `NumPy` `EDA` `Exploratory Analysis`
 
 ### Visualization  
 `Matplotlib` `Seaborn` `Power BI` `Streamlit`
